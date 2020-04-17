@@ -1,0 +1,62 @@
+td {
+    font-size: 35px;
+    font-family:'Quicksand', sans-serif;
+    font-weight: 500;
+}
+
+input[type=text]{
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 0px solid black;
+    border-radius: 50px;
+    background-color: whitesmoke;
+    font-family:'Quicksand', sans-serif;
+    font-size: 15px;
+}
+
+input[type=submit] {
+    font-size: 0.5em;
+    font-family:'Quicksand', sans-serif;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border-radius: 50px;
+    background-color: #2cb673;
+    color: white;
+}
+
+body {
+    color: black;
+    background-color: white;
+}
+
+.newacct {
+    font-size: 25px;
+    background-color: #2cb673;
+    text-align: center;
+}
+
+.usernametaken {
+    font-size: 25px;
+    background-color: #EC6363;
+    text-align: center;
+}
+
+h2 {
+    font-size: 35px;
+    font-family:'Quicksand', sans-serif;
+    font-weight: 500;
+}
+
+p {
+    font-family:'Quicksand', sans-serif;
+    font-size: 15px;
+}
+
+h1 {
+    font-size: 35px;
+    font-family:'Quicksand', sans-serif;
+    font-weight: 500;
+}
